@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

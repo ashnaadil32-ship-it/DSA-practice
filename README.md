@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->

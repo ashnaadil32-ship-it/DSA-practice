@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3714-longest-balanced-substring-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
 | ------- |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

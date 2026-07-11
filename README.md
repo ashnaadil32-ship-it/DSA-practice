@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0022-generate-parentheses) |
+| [0799-champagne-tower](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3620-network-recovery-pathways) |
 ## Backtracking

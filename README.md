@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3643-flip-square-submatrix-vertically) |

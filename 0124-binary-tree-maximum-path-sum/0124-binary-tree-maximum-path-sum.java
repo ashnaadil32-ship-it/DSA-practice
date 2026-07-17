@@ -30,4 +30,4 @@ class Solution {
         maxSum = Math.max(maxSum, path);
         return node.val + Math.max(left, right);
     }
-}
+}    

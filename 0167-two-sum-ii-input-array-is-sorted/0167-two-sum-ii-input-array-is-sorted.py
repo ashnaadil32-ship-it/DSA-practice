@@ -10,4 +10,4 @@ class Solution:
             elif current_sum > target :
                  right -=1
             else:
-                left += 1   
+                left += 1     

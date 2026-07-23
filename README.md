@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |

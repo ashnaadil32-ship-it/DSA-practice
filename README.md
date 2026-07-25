@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0657-robot-return-to-origin) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0392-is-subsequence) |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |

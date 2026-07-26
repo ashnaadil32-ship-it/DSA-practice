@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |

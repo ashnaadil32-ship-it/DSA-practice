@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |

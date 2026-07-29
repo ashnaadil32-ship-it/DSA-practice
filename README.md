@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3714-longest-balanced-substring-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

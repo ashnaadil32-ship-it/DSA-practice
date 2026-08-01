@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3620-network-recovery-pathways) |
+| [3660-jump-game-ix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3660-jump-game-ix) |
 ## Backtracking
 |  |
 | ------- |

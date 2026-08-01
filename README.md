@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |

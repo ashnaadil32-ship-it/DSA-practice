@@ -1,17 +1,18 @@
-class Solution:
-    def minOperations(self, s: str) -> int:
-        ops_for_pattern_0 = 0
+class Solution(object):
+    def minOperations(self, s):
+
+        pattern1 = 0  # starts with '0'
+        pattern2 = 0  # starts with '1'
+
+        for i in range(len(s)):
+            expected1 = '0' if i % 2 == 0 else '1'
+            expected2 = '1' if i % 2 == 0 else '0'
+
+            if s[i] != expected1:
+                pattern1 += 1
+
+            if s[i] != expected2:
+                pattern2 += 1
+
+        return min(pattern1, pattern2)
         
-        for i, char in enumerate(s):
-            # Pattern 0 expects '0' at even indices and '1' at odd indices
-            if i % 2 == 0:
-                if char != '0':
-                    ops_for_pattern_0 += 1
-            else:
-                if char != '1':
-                    ops_for_pattern_0 += 1
-                    
-        # Total operations for the alternate pattern is len(s) - ops_for_pattern_0
-        ops_for_pattern_1 = len(s) - ops_for_pattern_0
-        
-        return min(ops_for_pattern_0, ops_for_pattern_1)

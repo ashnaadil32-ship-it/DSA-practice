@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2463-minimum-total-distance-traveled) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2906-construct-product-matrix) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |

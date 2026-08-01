@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0797-all-paths-from-source-to-target) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |

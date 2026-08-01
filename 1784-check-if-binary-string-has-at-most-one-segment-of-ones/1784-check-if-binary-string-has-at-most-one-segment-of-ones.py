@@ -1,4 +1,11 @@
 class Solution:
-    def checkOnesSegment(self, s: str) -> bool:
-        # If "01" exists, it means a new segment of 1s started after a 0
-        return "01" not in s   
+    def checkOnesSegment(self, s):
+        found_zero = False
+
+        for ch in s:
+            if ch == '0':
+                found_zero = True
+            elif found_zero:
+                return False
+
+        return True

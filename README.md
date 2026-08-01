@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-network-recovery-pathways](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3620-network-recovery-pathways) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3660-jump-game-ix) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics

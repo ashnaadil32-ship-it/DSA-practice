@@ -4,16 +4,14 @@ class Solution:
         j = len(height) - 1
         maxarea = 0
 
-        while i < j :
-            width = j - i
+        while i < j:
+            width = j-i
             heights = min(height[i],height[j])
-
             area = width * heights
-
             maxarea = max(area,maxarea)
-
             if height[i] < height[j]:
-                i += 1
-            else : 
-                j -= 1
-        return maxarea            
+                i+=1
+            else :
+                j-= 1
+
+        return maxarea                                  

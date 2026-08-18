@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0868-binary-gap) |
@@ -584,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2029-stone-game-ix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

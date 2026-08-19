@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1980-find-unique-binary-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |

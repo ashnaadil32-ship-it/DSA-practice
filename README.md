@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0061-rotate-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
@@ -487,11 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Ordered Set
@@ -600,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->

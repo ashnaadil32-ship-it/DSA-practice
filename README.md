@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer

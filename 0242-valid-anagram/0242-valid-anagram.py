@@ -17,6 +17,4 @@ class Solution:
         else:
             count2[ch] = 1
 
-        if count1 == count2:
-           return True 
-       return False                   
+       return count1 == count2

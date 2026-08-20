@@ -1,28 +1,28 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        if len(s1) > len(s2):
+        n1, n2 = len(s1), len(s2)
+        if n1 > n2:
             return False
 
-        count1 = [0] * 26
-        count2 = [0] * 26
+        s1_counts = [0] * 26
+        s2_counts = [0] * 26
 
-        for ch in s1:
-            count1[ord(ch) - ord('a')] += 1
+        # Populate the target frequency and the first window in s2
+        for i in range(n1):
+            s1_counts[ord(s1[i]) - ord('a')] += 1
+            s2_counts[ord(s2[i]) - ord('a')] += 1
 
-        for i in range(len(s1)):
-            count2[ord(s2[i]) - ord('a')] += 1
-
-        if count1 == count2:
+        if s1_counts == s2_counts:
             return True
 
-        left = 0
+        # Slide the window across s2
+        for i in range(n1, n2):
+            # Add character entering from the right
+            s2_counts[ord(s2[i]) - ord('a')] += 1
+            # Remove character leaving from the left
+            s2_counts[ord(s2[i - n1]) - ord('a')] -= 1
 
-        for right in range(len(s1), len(s2)):
-            count2[ord(s2[right]) - ord('a')] += 1
-            count2[ord(s2[left]) - ord('a')] -= 1
-            left += 1
-
-            if count1 == count2:
+            if s1_counts == s2_counts:
                 return True
 
         return False

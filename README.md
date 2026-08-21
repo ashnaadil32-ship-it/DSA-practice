@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0657-robot-return-to-origin) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2751-robot-collisions) |
 ## Design

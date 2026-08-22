@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0125-valid-palindrome) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2751-robot-collisions) |
@@ -635,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

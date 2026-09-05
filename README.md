@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |

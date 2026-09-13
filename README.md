@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1140-stone-game-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |

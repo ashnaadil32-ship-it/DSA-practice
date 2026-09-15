@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1872-stone-game-viii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2069-walking-robot-simulation-ii) |
 ## Trie
 |  |
@@ -705,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

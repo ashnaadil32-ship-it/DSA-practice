@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |

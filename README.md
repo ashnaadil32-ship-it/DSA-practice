@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |

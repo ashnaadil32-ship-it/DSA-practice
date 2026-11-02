@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1096-brace-expansion-ii) |

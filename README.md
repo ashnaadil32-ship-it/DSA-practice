@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0394-decode-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0509-fibonacci-number) |

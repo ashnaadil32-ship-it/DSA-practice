@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
@@ -951,4 +954,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0005-longest-palindromic-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

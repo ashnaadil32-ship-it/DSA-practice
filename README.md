@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0125-valid-palindrome) |

@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -674,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2833-furthest-point-from-origin) |

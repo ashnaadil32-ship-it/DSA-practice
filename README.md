@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |

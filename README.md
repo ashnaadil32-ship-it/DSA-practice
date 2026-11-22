@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/ashnaadil32-ship-it/DSA-practice/tree/master/2573-find-the-string-with-lcp) |
